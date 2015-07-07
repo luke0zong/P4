@@ -138,7 +138,7 @@ public class Maze {
 
         // Wait for awhile
         try {
-            Thread.sleep(200);
+            Thread.sleep(300);
         } catch (InterruptedException ex) {
             Thread.currentThread().interrupt();
         }
