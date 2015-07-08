@@ -23,8 +23,8 @@ public class P4 {
         int x = 0, y = 0;
 
         do {
-             /*
-            // New move right. NEED WORKING!
+             /* NEED WORKING!
+            // New move right.
             if (y % 2 == 0) {
                 for (x = 0; x < (mazeWidth + 1); x++) {
                     if (!maze.moveRight()) {
